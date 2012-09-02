@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<case targetlang="de">
+	<title lang="de">Informationsanfrage</title>
+	<title lang="fr">Demande d'information</title>
+	<eval_conditions>
+		<type>&#233;crite, individuelle</type>
+		<players>1 candidat, 1 évaluateur</players>
+		<length>30 minutes</length>
+		<docs_to_be_used>énoncé, fiche d'informations sur une société étrang&#232;re en zone germanophone</docs_to_be_used>
+	</eval_conditions>
+	<description>
+		<situation>L'IGS demande à ses étudiants...</situation>
+		<role_candidate>Il/elle joue son propre rôle.</role_candidate>
+		<role_evaluator>Il/elle joue son propre rôle.</role_evaluator>
+	</description>
+	<candidates_guide>
+		<role></role>
+		<goals></goals>
+		<hints></hints>
+	</candidates_guide>
+	<evaluators_guide>
+		<role></role>
+		<goals></goals>
+		<hints></hints>
+	</evaluators_guide>
+	<evaluation_grid>
+		<speak_act></speak_act>
+	</evaluation_grid>
+</case>
