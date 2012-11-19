@@ -1,0 +1,18 @@
+ach-prod	Acheter un produit ou un service
+anal-pub	Analyser une publicité
+com-écr	Communiquer par écrit
+écr-tél	Communiquer par écrit & téléphone
+com-tél	Communiquer par téléphone
+cré-pub	Créer une publicité
+décr-poste	Décrocher un poste
+en-voyaff	En voyage d'affaires
+étu-march	Faire une étude de marché
+nég-inter	Négocier à l'international
+prm-cont	Premier contact
+prés-prpro	Présenter son projet professionnel
+prés-buspl	Présenter un business plan
+prés-entr	Présenter une entreprise
+prés-ville	Présenter une ville étrangère
+réun-sol	Se réunir pour trouver des solutions
+vend-prod	Vendre un produit ou un service
+vivr-étran	Vivre, travailler et étudier à l'étranger
