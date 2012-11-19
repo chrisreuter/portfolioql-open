@@ -1,0 +1,8 @@
+# FR: Structure édition 2000-2011 
+
+réf	référentiel
+éch	échéancier
+cnsl	conseils
+sit	situation-épreuve
+mdl	modèle
+voc	vocabulaire
