@@ -16,3 +16,24 @@ prés-ville	Présenter une ville étrangère
 réun-sol	Se réunir pour trouver des solutions
 vend-prod	Vendre un produit ou un service
 vivr-étran	Vivre, travailler et étudier à l'étranger
+
+## Abréviations pour noms de fichiers (sans accents)
+
+ach-prod	Acheter un produit ou un service
+anal-pub	Analyser une publicité
+com-ecr	Communiquer par écrit
+ecr-tel	Communiquer par écrit & téléphone
+com-tel	Communiquer par téléphone
+cre-pub	Créer une publicité
+decr-poste	Décrocher un poste
+en-voyaff	En voyage d'affaires
+etu-march	Faire une étude de marché
+neg-inter	Négocier à l'international
+prm-cont	Premier contact
+pres-prpro	Présenter son projet professionnel
+pres-buspl	Présenter un business plan
+pres-entr	Présenter une entreprise
+pres-ville	Présenter une ville étrangère
+reun-sol	Se réunir pour trouver des solutions
+vend-prod	Vendre un produit ou un service
+vivr-etran	Vivre, travailler et étudier à l'étranger
