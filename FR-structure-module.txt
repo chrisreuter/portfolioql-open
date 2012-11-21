@@ -1,7 +1,24 @@
-# FR: Structure édition 2000-2011 
+# FR: Structure des modules - édition 2000-2011 
 
+## A. Numéroté
+1. réf	référentiel
+2. éch	échéancier
+3. cnsl	conseils
+4. sit	situation-épreuve
+5. mdl	modèle
+6. voc	vocabulaire
+
+## B. Sans numéro
 réf	référentiel
 éch	échéancier
+cnsl	conseils
+sit	situation-épreuve
+mdl	modèle
+voc	vocabulaire
+
+## C. Sans numéro et sans accents (pour les fichiers)
+ref	référentiel
+ech	échéancier
 cnsl	conseils
 sit	situation-épreuve
 mdl	modèle
