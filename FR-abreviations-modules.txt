@@ -15,7 +15,7 @@ prés-entr	Présenter une entreprise
 prés-ville	Présenter une ville étrangère
 réun-sol	Se réunir pour trouver des solutions
 vend-prod	Vendre un produit ou un service
-vivr-étran	Vivre, travailler et étudier à l'étranger
+vivr-étran	Vivre et étudier à l'étranger
 
 ## Abréviations pour noms de fichiers (sans accents)
 
